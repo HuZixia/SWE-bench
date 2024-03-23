@@ -175,4 +175,4 @@ analysis/evaluation/*.pdf
 
 
 princeton-nlp/*
-compare/groundtruth.json
+compare/ground_truth.json
