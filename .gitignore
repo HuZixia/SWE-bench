@@ -165,10 +165,14 @@ notebooks/
 data/repos/copies
 .keys
 .vscode/
-*.jsonl
-*.jsonl.*
+# *.jsonl
+# *.jsonl.*
 analysis/**/*.json
 analysis/**/scratch*
 analysis/benchmark/plots/
 analysis/evaluation/*.csv
 analysis/evaluation/*.pdf
+
+
+princeton-nlp/*
+compare/groundtruth.json
